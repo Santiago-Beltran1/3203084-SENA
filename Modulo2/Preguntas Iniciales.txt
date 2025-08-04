@@ -1,0 +1,19 @@
+1.Qué son las variables?
+R/Una variable es un espacio en memoria donde puedes guardar un valor (como un número, texto, lista, etc.) para usarlo más adelante en tu programa.
+
+2.Reglas de nomenclatura de variables.
+R/-Deben comenzar con una letra (a–z, A–Z) o un guion bajo _.
+
+-No pueden comenzar con un número.
+
+-Pueden contener letras, números y guion bajo (_).
+
+-No pueden contener espacios ni caracteres especiales (@, -, !, etc.).
+
+-No deben usar palabras reservadas del lenguaje (como if, while, class, etc.).
+
+-Es sensible a mayúsculas y minúsculas (Edad y edad son diferentes).
+
+3.Asignación y re-asignación de valores. 
+R/Asignar un valor a una variable significa darle un dato para que lo guarde.
+Re-asignar es cuando cambias el valor que ya tenía una variable, es decir, puedes actualizar o reemplazar el valor en cualquier momento y es posible re-asignar una variable con un valor de tipo diferente al original, debido a que Python permite el cambio de tipo de dato en una variable ya creada.ñ
