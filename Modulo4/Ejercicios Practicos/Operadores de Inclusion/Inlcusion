@@ -1,0 +1,4 @@
+frutas = ["manzana", "pera", "uva"]
+
+print("pera" in frutas)      # True
+print("naranja" not in frutas) # True
